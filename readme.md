@@ -1,6 +1,6 @@
-# Node and react
+# Express and react Boilerplate
 
-A simple app connecting node and React.
+A simple app connecting express and React.
 
 ## Getting Started
 
@@ -11,5 +11,5 @@ npm install
 ```
 
 ```
-nodemon
+nodemon or nodemon index
 ```
