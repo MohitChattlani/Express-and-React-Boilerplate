@@ -1,9 +1,5 @@
-import React from 'react';
 import ReactDOM from 'react-dom';
+import {routes} from './routes';
 
-let jsx =(
-  <div>
-    <p>Hello! React.</p>
-  </div>
-);
-ReactDOM.render(jsx,document.getElementById('quiz'));
+
+ReactDOM.render(routes,document.getElementById('app'));
