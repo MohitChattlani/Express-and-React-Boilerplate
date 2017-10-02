@@ -9,6 +9,9 @@ This app requires you to have node installed. Then you can clone the repo and ru
 ```
 npm install
 ```
+```
+npm run webpack
+```
 
 ```
 nodemon or nodemon index
